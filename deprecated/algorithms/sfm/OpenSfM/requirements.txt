@@ -11,4 +11,4 @@ PyYAML==4.2b1
 repoze.lru==0.7
 scipy
 six
-xmltodict==0.10.2
+xmltodict==0.15.0
